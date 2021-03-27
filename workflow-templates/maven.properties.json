@@ -1,0 +1,14 @@
+{
+    "name": "3NauK Organization Workflow",
+    "description": "Maven CI workflow template.",
+    "iconName": "example-icon",
+    "categories": [
+        "Spring",
+        "Java"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
