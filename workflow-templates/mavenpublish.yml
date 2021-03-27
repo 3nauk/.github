@@ -29,6 +29,6 @@ jobs:
 
       - name: Publish to GitHub Packages Apache Maven
         env:
-          GITHUB_USER: ${{secrets.bnauk_user}}
-          GITHUB_TOKEN: ${{secrets.bnauk_token}}
+          GITHUB_USER: ${{GITHUB_USER}}
+          GITHUB_TOKEN: ${{GITHUB_TOKEN}}
         run: mvn -X -s settings.xml -B -Dchangelist= deploy
