@@ -1,10 +1,5 @@
 {
     "name": "3NauK Organization Workflow",
     "description": "Maven CI workflow template.",
-    "iconName": "workflow-3nauk",
-    "filePatterns": [
-        "package.json$",
-        "^Dockerfile",
-        ".*\\.md$"
-    ]
+    "iconName": "workflow-3nauk"
 }
