@@ -1,5 +1,5 @@
 {
     "name": "3NauK Organization Workflow",
     "description": "Maven CI workflow template.",
-    "iconName": "workflow-3nauk"
+    "iconName": "3nauk-mvn-workflow"
 }
