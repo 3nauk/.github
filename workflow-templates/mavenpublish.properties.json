@@ -2,10 +2,6 @@
     "name": "3NauK Organization Workflow",
     "description": "Maven Release CI workflow template.",
     "iconName": "example-icon",
-    "categories": [
-        "Spring",
-        "Java"
-    ],
     "filePatterns": [
         "package.json$",
         "^Dockerfile",
