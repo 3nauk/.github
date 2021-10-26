@@ -1,1 +1,1 @@
-## Hey, this is BBCRON organziation 👋👋
+## Hey, this is BBCRON organization 👋👋
